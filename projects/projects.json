@@ -5,7 +5,7 @@
     "image": "webchat",
     "category": "mern",
     "links": {
-      "view": "https://web-chat-realtime-xi.vercel.app/",
+      "view": "https://web-chat-realtime-frontend.vercel.app/",
       "code": "https://github.com/Khacsy05/Web-Chat-realtime"
     }
   },
