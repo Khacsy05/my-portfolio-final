@@ -18,5 +18,15 @@
       "view": "https://webhoaqua.onrender.com",
       "code": "https://github.com/Khacsy05/WebHoaQua"
     }
+  },
+  {
+    "name": "Project-Management",
+    "desc": "FullStack Developer (July 2026 - August 2026). Web-based management system for Thuyloi University to manage student graduation theses, projects, and academic departments.",
+    "image": "project_management",
+    "category": "mern",
+    "links": {
+      "view": "https://development-of-an-project-managemen.vercel.app/",
+      "code": "https://github.com/Khacsy05/Development-of-an-Project-Management-System"
+    }
   }
 ]
