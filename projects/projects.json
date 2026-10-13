@@ -28,5 +28,15 @@
       "view": "https://development-of-an-project-managemen.vercel.app/",
       "code": "https://github.com/Khacsy05/Development-of-an-Project-Management-System"
     }
+  },
+  {
+    "name": "AI-Online-Judge",
+    "desc": "FullStack Developer. AI-powered online judge and automated grading system featuring secure Docker Sandbox execution and instant pedagogical feedback.",
+    "image": "ai_online_judge",
+    "category": "mern",
+    "links": {
+      "view": "https://ai-online-judge-eight.vercel.app/",
+      "code": "https://github.com/Khacsy05/ai-online-judge"
+    }
   }
 ]
